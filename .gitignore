@@ -8,3 +8,5 @@ wheels/
 
 # Virtual environments
 .venv
+yolo11m-seg.pt
+background.jpg
